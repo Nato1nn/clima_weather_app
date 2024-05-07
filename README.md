@@ -4,3 +4,8 @@ app para ver o clima de qualquer cidade do mundo, basta pesquisar pelo nome da c
 app to see the weather of any city in the world, just search by city name, app created using React, JS, Node and Tailwind.
 
 # Ferramentas/Tools
+
+•Node
+•React
+•Tailwind
+•API Weather
